@@ -29,13 +29,14 @@ I aim to build a career in **IT, focusing on cybersecurity**, developing my tech
 <h3 align="left">Connect with me!</h3>
 
 <a href="https://www.linkedin.com/in/jota-cybersec-49511b3b6/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn">
 </a>
 
 <a href="https://www.instagram.com/jota.onze/">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=A855F7" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram">
 </a>
 
+<br>
 <br>
 
 <h3 align="left">My Stack ~</h3>
