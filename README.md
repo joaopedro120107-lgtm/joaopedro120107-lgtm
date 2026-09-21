@@ -13,13 +13,13 @@
 
 <div align="center">
 
-### 💜 Sobre mim
+### 💜 About Me
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com interesse em desenvolvimento de software e cibersegurança.
+I'm **Jota**, a **Systems Analysis and Development student**, interested in cybersecurity and expanding my knowledge in the field.
 
-Atualmente, estou aprimorando meus conhecimentos em **Java, Python, C++ e Linux**, além de desenvolver projetos acadêmicos para colocar em prática o que aprendo.
+I'm currently improving my skills in **Java, Python, C++, and Linux**, putting what I learn into practice through academic projects.
 
-Tenho interesse em explorar novas tecnologias, aprimorar minhas habilidades e construir minha carreira na área de TI.
+I aim to build a career in **IT, focusing on cybersecurity**, developing my technical skills and deepening my knowledge of information security.
 
 </div>
 
