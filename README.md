@@ -6,9 +6,8 @@
 
 <br>
 
-<!-- Quando enviar seu GIF de cabeçalho, remova os símbolos de comentário desta linha:
-<img src="./src/header-gif.gif" width="100%" alt="Jota header GIF" />
--->
+<!-- Se quiser usar um GIF no topo, descomente a linha abaixo -->
+<!-- <img src="./src/ghoul.gif" width="320" alt="Jota GIF" /> -->
 
 </div>
 
@@ -20,7 +19,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com interesse em desenvolvimento de software e cibersegurança.
 
-Atualmente, estou aprimorando meus conhecimentos em Java, Python, C++ e Linux, além de desenvolver projetos acadêmicos para colocar em prática o que aprendo.
+Atualmente, estou aprimorando meus conhecimentos em **Java, Python, C++ e Linux**, além de desenvolver projetos acadêmicos para colocar em prática o que aprendo.
 
 Tenho interesse em explorar novas tecnologias, aprimorar minhas habilidades e construir minha carreira na área de TI.
 
@@ -28,18 +27,15 @@ Tenho interesse em explorar novas tecnologias, aprimorar minhas habilidades e co
 
 ---
 
-<!-- GIF lateral: remova os símbolos de comentário quando enviar o arquivo:
-<img align="right" alt="Jota estudando programação" height="190px" src="./src/study.gif">
--->
-
+<img align="right" alt="Tokyo Ghoul" height="190px" src="https://i.pinimg.com/originals/b1/89/92/b189922eab130325a3995bfa1a3021eb.gif">
 <h3 align="left">Connect with me!</h3>
 
 <a href="https://www.linkedin.com/in/jota-cybersec-49511b3b6/">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn">
 </a>
 
-<a href="https://github.com/joaopedro120107-lgtm">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub">
+<a href="https://www.instagram.com/jota.onze/">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=A855F7" alt="Instagram">
 </a>
 
 <br>
@@ -76,76 +72,11 @@ Tenho interesse em explorar novas tecnologias, aprimorar minhas habilidades e co
 
 <div align="center">
 
-### 🔐 Áreas de interesse
-
-<img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=A855F7" alt="Cybersecurity" />
-
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=A855F7" alt="Linux" />
-
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=A855F7" alt="Java" />
-
-</div>
-
----
-
-<h3 align="center">🚀 My Projects</h3>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 Delta Trigger
-
-RPG desenvolvido em Java como projeto acadêmico.
-
-O projeto envolve programação orientada a objetos, exploração, batalhas por turnos e desenvolvimento de interface gráfica.
-
-**Tecnologias:** Java | POO | GUI
-
-</td>
-<td width="50%" valign="top">
-
-### 🔥 SleepTech
-
-Projeto de monitoramento inteligente de fornos industriais.
-
-A proposta envolve controle de temperatura, identificação de superaquecimento e emissão de alertas.
-
-**Área:** Automação e monitoramento
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ♻️ SmartBin
-
-Projeto de lixeira inteligente.
-
-**Área:** Tecnologia e inovação
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Em desenvolvimento
-
-Continuo aprimorando meus conhecimentos em programação, Linux e segurança da informação.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
 ### * GitHub Stats *
 
 <br>
 
 <img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
-
 <img height="180em" src="./profile/top-langs.svg" alt="Most Used Languages" />
 
 </div>
@@ -161,7 +92,7 @@ Continuo aprimorando meus conhecimentos em programação, Linux e segurança da 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaopedro120107-lgtm/joaopedro120107-lgtm/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaopedro120107-lgtm/joaopedro120107-lgtm/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/joaopedro120107-lgtm/joaopedro120107-lgtm/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaopedro120107-lgtm/joaopedro120107-lgtm/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
